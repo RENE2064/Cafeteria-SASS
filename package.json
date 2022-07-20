@@ -1,0 +1,24 @@
+{
+  "name": "cafeteria-ssas",
+  "version": "1.0.0",
+  "description": "Aprendiendo SSAS, Gupl y CssGrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RENE2064/Cafeteria-SSAS.git"
+  },
+  "author": "Rene Chavira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RENE2064/Cafeteria-SSAS/issues"
+  },
+  "homepage": "https://github.com/RENE2064/Cafeteria-SSAS#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.53.0"
+  }
+}
